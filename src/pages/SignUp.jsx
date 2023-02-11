@@ -85,7 +85,7 @@ function SignUp() {
           </div>
         </form>
 
-          <OAuth />
+          
 
         <Link to='/sign-in' className="registerLink">
           Already a user? Log in
